@@ -61,7 +61,7 @@ https://youtube.com/shorts/NQJJnunQ6oA?si=6L_gix-gl1znol6q
 * **ウェイト20kg設定時:** 15〜20m
 * **ウェイト30kg設定時:** 25〜30m
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ey7I5x5Z1aw?si=zxObUcV1NJFZwJp9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/ey7I5x5Z1aw?si=zxObUcV1NJFZwJp9
 
 テスト自体は成功したが、進行中に想定外の心理的抵抗に直面した。
 協力者が遊びで作った小さな「雪だるま」を弾丸として渡された際、それを投擲機にセットし撃ち出すことに強い抵抗感を覚えた。単なる丸い雪玉であれば問題なく投擲できるが、目鼻がつき「顔」という造形的な意味を持った途端、それを弾丸として消費することに倫理的なブレーキがかかったのである。
@@ -91,7 +91,7 @@ https://youtube.com/shorts/NQJJnunQ6oA?si=6L_gix-gl1znol6q
 この機構は、トリガーの引っ掛かり部分の傾き角度や、バネの向き、伸縮力のバランスによって動作の確実性が大きく変わるため、安定して作動するまで数度の微調整を要した。
 電動パンタグラフジャッキの制御もリフターと同様、操作スイッチをハッキングして電磁リレー経由でESP32から操作している。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fH4BisHahg0?si=zXH9v4ZZcmkl2xa5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/fH4BisHahg0?si=zXH9v4ZZcmkl2xa5
 
 https://www.youtube.com/shorts/v3gD7HEg_cU
 
@@ -99,7 +99,7 @@ https://www.youtube.com/shorts/v3gD7HEg_cU
 確実なリリース機構（トリガー）が実装できた段階で、投擲物の種類や質量による軌道変化のデータを収集するため、様々な素材を用いてテスト投擲を行った。
 機体側の設定（スリングの長さやフィンガーの角度など）によって射出時の初期軌道は調整可能だが、空中に放たれた後の弾道は、投擲物自体の空気抵抗や質量に大きく左右される。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gPsiPnHINmQ?si=wHX54dAfrmArtbY1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/gPsiPnHINmQ?si=wHX54dAfrmArtbY1
 
 そしてこのテストの過程で、興味深い気づきを得た。
 それは、同じ運動エネルギーで射出されたとしても、空中を飛翔する「投擲物の種類」や「飛び方（空気抵抗による減速や軌道の揺らぎ）」によって、我々が受ける印象が「極めて危険で暴力的なもの」から「ユーモラスで平和的なもの」へと極端に変わるという事実である。
