@@ -16,7 +16,7 @@ This is a record of mechanical violence. Humans are fundamentally conflicted abo
 
 室内環境にて、直径100mmの発泡スチロール球を投擲した結果、飛距離は4m程度にとどまった。発泡スチロールのため、空気抵抗による減速もかなり見られた。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VJIgEilWYgc?si=l6oW53AmEBZs1ixo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/VJIgEilWYgc?si=l6oW53AmEBZs1ixo
 
 ## 第2段階：カウンターウェイトの導入
 そうこうしているうちに、注文していたカウンターウェイト用のダンベルが納品された。そこでビームの下部にウェイトを装着し、重力を利用した実験へと移行した。
@@ -25,11 +25,11 @@ This is a record of mechanical violence. Humans are fundamentally conflicted abo
 
 ![IMG_9816.JPG](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4363856/d1109fc1-9593-4c24-8b46-c31d91fad74c.jpeg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fr2Q-tkhHZ8?si=LHxCIGHQdwgcfgjG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/Fr2Q-tkhHZ8?si=LHxCIGHQdwgcfgjG
 
 結果として飛距離は4.5〜7m程度まで伸びたものの、リリースのタイミングがシビアになり、安定的な投擲軌道を確保するのが難しいという印象を受けた。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ue0T6pTHibU?si=91rRm1FTNaJ3gDhL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/Ue0T6pTHibU?si=91rRm1FTNaJ3gDhL
 
 ## 第3段階：トレビュシェット（二重振り子構造）への転換
 投擲のタイミングの調整の難しさと、飛距離向上を行うため、1軸構造の限界を見切り、中世の攻城兵器にも用いられた「トレビュシェット」の構造を採用し、二重振り子構造への改良を計画した。
@@ -39,7 +39,7 @@ https://youtu.be/jTBDc19eW2o?si=-bMeJ2_m8DDjFLhB
 
 簡易的に二重振り子構造を実装してテストしたところ、スリングに改善は必要なものの、飛距離が圧倒的に上昇した。構造的な優位性が確認できたため、これを基盤として自動化構造を検討していくこととした。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gWTvOv4ttsM?si=Hg66_hSueE5cdWr7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/gWTvOv4ttsM?si=Hg66_hSueE5cdWr7
 
 ## 実用化に向けた技術的懸念点
 飛距離と威力が跳ね上がった反面、いくつか解決すべき課題も浮上した。
@@ -48,14 +48,14 @@ https://youtu.be/jTBDc19eW2o?si=-bMeJ2_m8DDjFLhB
 * **リリースの安定化:** 投擲物がスリングから適切なタイミングで外れる（あるいはすっぽ抜けない）ための工夫
 * **軌道の確保:** 安定的な軌道を描くための、構造全体の精度向上
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/plBcEmP-Nzs?si=PSRBuNqyvlT24PVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/plBcEmP-Nzs?si=PSRBuNqyvlT24PVA
 
 ## DIY投擲機の実践例に見る「純粋な探求」と「暴力性」
 私が試作の過程で直面した「物理演算とエンジニアリングが巨大なエネルギーに直結する」という事実は、世界中のMaker（モノづくり愛好家）やエンジニア界隈の事例を見ても明らかである。投擲機の自作は非常に人気のあるテーマだが、そこには常に「技術の無邪気な探求」と「兵器級の危険性」が隣り合わせに存在している。
 
-**1. パンプキン・チャンキン（Pumpkin Chunkin）**
+**1. パンキン・チャンキン（Punkin Chunkin）**
 アメリカで開催されてきた巨大カボチャ飛ばし大会。あらゆる工学技術が「カボチャを飛ばす」という目的のために極限までチューニングされ、大会記録は1kmを優に超える。その運動エネルギーは完全に「大砲」や「攻城兵器」であり、過去には部品破損による深刻な事故も起きている。
-*参考: [World Championship Punkin Chunkin (Wikipedia)](https://en.wikipedia.org/wiki/Pumpkin_chunkin)*
+*参考: [Punkin Chunkin (Wikipedia)](https://en.wikipedia.org/wiki/Punkin_chunkin)*
 
 **2. Colin Furze氏の巨大トレビュシェット**
 イギリスの発明家Colin Furze氏は、自身の裏庭で鋼鉄製の巨大トレビュシェットを溶接して作り上げた。車や燃え盛る樽など巨大な質量を空中に放り投げるこの装置は、個人が容易に街を破壊できるレベルの重力兵器を作れてしまう事実を可視化している。
